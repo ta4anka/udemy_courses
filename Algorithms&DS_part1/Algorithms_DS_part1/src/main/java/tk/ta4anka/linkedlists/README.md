@@ -22,13 +22,13 @@
 ---
 **Linked Lists Disadvantages**
 
-1. More Memory
+1. **More Memory**
    - linked lists need more memory than arrays because we have to store the references
-2. No Random Access 
+2. **No Random Access** 
    - there are no indexes - we can access the first node (head node) exclusively
-3. Can Not Go Backwards
+3. **Can Not Go Backwards**
    - how to get the previous item?
-4. Not Predictable 
+4. **Not Predictable** 
    - the running time of the application depends on what operations the users do
 
 ---
